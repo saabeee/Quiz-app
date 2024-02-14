@@ -36,6 +36,60 @@ const question = [
             { text: "Arctic", correct: false },
             { text: "Africa", correct: false },
         ]
+    },
+    {
+        question: "Which is the highest mountain in the world?",
+        answers: [
+            { text: "K2", correct: false },
+            { text: "Kangchenjun", correct: false },
+            { text: "Mount everest", correct: true },
+            { text: "Lhotse", correct: false },
+        ] 
+    },
+    {
+        question: "Which is the smallest state in india by population?",
+        answers: [
+            { text: "Sikkim", correct: true },
+            { text: "Mizoram", correct: false },
+            { text: "Arunachal pradesh", correct: false },
+            { text: "Goa", correct: false },
+        ] 
+    },
+    {
+        question: "Which is the largest river in the world?",
+        answers: [
+            { text: "Amazon river", correct: false },
+            { text: "Yellow river", correct: false },
+            { text: "Nile", correct: true },
+            { text: "Yangtze river", correct: false },
+        ] 
+    },
+    {
+        question: "Which is the smallest planet in our solar system?",
+        answers: [
+            { text: "Earth", correct: false },
+            { text: "Mars", correct: false },
+            { text: "Venus", correct: false },
+            { text: "Mercury", correct: true },
+        ]   
+    },
+    {
+        question: "Which is the largest coffee producing state in india?",
+        answers: [
+            { text: "Karnataka", correct: true },
+            { text: "Tamil nadu", correct: false },
+            { text: "Kerala", correct: false },
+            { text: "Andhra pardesh", correct: false },
+        ] 
+    },
+    {
+        question: "Which is the smallest ocean in the world?",
+        answers: [
+            { text: "Pacific ocean", correct: false },
+            { text: "Atlantic ocean", correct: false },
+            { text: "Arctic ocean", correct: true },
+            { text: "Indian ocean", correct: false },
+        ]   
     }
 ];
 
